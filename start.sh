@@ -1,0 +1,1 @@
+geth --identity "TestNode" --rpc --rpcport "8545" --rpccorsdomain "*"  --datadir testnode/ --port "30303" --rpcapi "admin,eth,miner,net,personal,web3"  --nodiscover  --networkid 100  console 2>> file_log

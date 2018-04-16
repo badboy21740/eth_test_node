@@ -1,0 +1,51 @@
+eth.getBalance(eth.account)
+eth.getBalance(eth.accounts[0])
+eth.getBalance(eth.account)
+eth.getBalance(eth.accounts[0])
+eth.accounts
+eth.getBalance(eth.accounts[0])
+eth.accounts.create()
+eth.accounts
+eth.getBalance(eth.accounts[0])
+eth.accounts
+u1 = eth.accounts[0]
+eth.accounts
+u = eth.accounts[0]
+eth.getBalance(u)
+eth.accounts
+eth.getBalance(eth.accounts[0])
+eth.accounts
+eth.getBalance(eth.accounts[0])
+eth.getBalance(eth.accounts[1])
+eth.getBalance(eth.accounts[0])
+eth.getBalance(eth.accounts[1])
+eth.getBalance(eth.accounts[0])
+eth.getBalance(eth.accounts[1])
+eth.getBalance(eth.accounts[0])
+eth.getBalance(eth.accounts[1])
+eth.getBalance(eth.accounts[0])
+eth.getBalance(eth.accounts[1])
+eth.getBalance(eth.accounts[0])
+eth.getBalance(eth.accounts[1])
+eth.getBalance(eth.accounts[0])
+eth.getBalance(eth.accounts[1])
+eth.getBalance(eth.accounts[0])
+eth.getBalance(eth.accounts[1])
+eth.getBalance(eth.accounts[2])
+eth.getBalance(eth.accounts[0])
+eth.getBalance(eth.accounts[2])
+eth.getBalance(eth.accounts[1])
+eth.getBalance(eth.accounts[2])
+eth.getBalance(eth.accounts[1])
+eth.getBalance(eth.accounts[2])
+eth.getBalance(eth.accounts[0])
+eth.accounts
+eth --geth
+eth --unlock 0x1163b4a364c269fdb6955bafcbca72cdb656e1c1
+eth.getBalance(eth.accounts[1])
+eth.getBalance(eth.accounts[2])
+eth.getBalance(0x151ee6037cE3282Ec28cE6f706b7E3c83826fF5e)
+eth.getBalance('0x151ee6037cE3282Ec28cE6f706b7E3c83826fF5e')
+eth.accounts
+ext
+eth.accounts
